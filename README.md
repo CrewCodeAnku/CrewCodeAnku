@@ -42,4 +42,5 @@ Hi, I'm Anku Singh
  <img src="https://img.icons8.com/color/48/000000/gatsbyjs.png" alt="gatsby" width="40" height="40"/>
  <img src="https://img.icons8.com/fluency/48/000000/flutter.png" alt="flutter" width="40" height="40"/>
  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="firebase" width="40" height="40"/>
+ <img src="https://img.icons8.com/color/48/000000/graphql.png" alt="graphql" width="40" height="40"/>
  </p>
