@@ -16,8 +16,8 @@
 
 <h4>
 Hi, I'm Anku Singh 
-| Full Stack developer Javascript/Php Developer 
-| AWS and MongoDB Certified Developer associate | Founder of CrewCode Solutions.
+| Full Stack Javascript/PHP Developer 
+| AWS and MongoDB Certified Developer Associate | Founder of CrewCode Solutions.
 </h4>
 
 <br/>
@@ -35,6 +35,11 @@ Hi, I'm Anku Singh
  <img src="https://img.icons8.com/ultraviolet/40/000000/react.png" alt="python" width="40" height="40"/> 
  <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="40" height="40" alt="nodejs" /> 
  <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="40" height="40" />
- <img src="https://img.icons8.com/ios/50/000000/mysql-logo.png" alt="mysql" width="40" height="40"/> 
+ <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="mysql" width="40" height="40"/>
+ <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="angular" width="40" height="40"/>
+ <img src="https://img.icons8.com/fluency/48/000000/laravel.png" alt="laravel" width="40" height="40"/>
+ <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="wordpress" width="40" height="40"/>
+ <img src="https://img.icons8.com/color/48/000000/gatsbyjs.png" alt="gatsby" width="40" height="40"/>
+ <img src="https://img.icons8.com/fluency/48/000000/flutter.png" alt="flutter" width="40" height="40"/>
  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="firebase" width="40" height="40"/>
  </p>
