@@ -12,13 +12,12 @@
 
 <br />
 <br />
-<img alt="" align="right" src="https://drive.google.com/uc?export=view&id=1I0j-DrLKyYebs3DHACicrC7-Gjge2mEv" width="400px"/>
 
-<h4>
+<h3>
 Hi, I'm Anku Singh 
 | Full Stack Javascript/PHP Developer 
 | AWS and MongoDB Certified Developer Associate | Founder of CrewCode Solutions.
-</h4>
+</h3>
 
 <br/>
 
