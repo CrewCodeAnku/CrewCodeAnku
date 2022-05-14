@@ -1,4 +1,4 @@
-# Hi I'm [Anku sINGH!](https://github.com/CrewCodeAnku) 👋
+# Hi I'm [Anku Singh!](https://github.com/CrewCodeAnku) 👋
 
 <a href="mailto:crewcodestudio@gmail.com?hl=en" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%23DC493C.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
@@ -16,8 +16,8 @@
 
 <h3>
 Hi, I'm Anku Singh 
-<strong>Full Stack developer Javascript/Php Developer</strong> 
-<strong>AWS and MongoDB Certified Developer associate</strong> and Founder of CrewCode Solutions.
+| Full Stack developer Javascript/Php Developer 
+| AWS and MongoDB Certified Developer associate | Founder of CrewCode Solutions.
 </h3>
 
 <br/>
