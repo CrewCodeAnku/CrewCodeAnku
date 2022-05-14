@@ -16,7 +16,7 @@
 <h3>
 Hi, I'm Anku Singh 
 | Full Stack Javascript/PHP Developer 
-| AWS and MongoDB Certified Developer Associate | Founder of CrewCode Solutions.
+| AWS and MongoDB Certified Developer Associate.
 </h3>
 
 <br/>
