@@ -3,7 +3,7 @@
 <a href="mailto:crewcodestudio@gmail.com?hl=en" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%23DC493C.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/mihir0699/" target="_blank">
+<a href="https://www.linkedin.com/in/anku-singh-7b32a082/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.youtube.com/channel/UCgON7jg9LfWpALA263rhLyg?sub_confirmation=1">
@@ -14,11 +14,11 @@
 <br />
 <img alt="" align="right" src="https://drive.google.com/file/d/1I0j-DrLKyYebs3DHACicrC7-Gjge2mEv/view?usp=sharing" width="400px"/>
 
-<h3>
+<h5>
 Hi, I'm Anku Singh 
 | Full Stack developer Javascript/Php Developer 
 | AWS and MongoDB Certified Developer associate | Founder of CrewCode Solutions.
-</h3>
+</h5>
 
 <br/>
 
