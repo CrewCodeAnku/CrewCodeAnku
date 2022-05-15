@@ -12,7 +12,8 @@
 
 <br />
 <br />
-
+<img alt="badge" align="right" src="https://drive.google.com/uc?export=view&id=105qz5TiUphs1Ok2rohLSo8-GgYUri4p3" width="200px"/>
+<img alt="badge" align="right" src="https://drive.google.com/uc?export=view&id=15k_tI_VjP-nIu2SchpLlb5C651_JNrNw" width="200px"/>
 <h3>
 Hi, I'm Anku Singh 
 | Full Stack Javascript/PHP Developer 
